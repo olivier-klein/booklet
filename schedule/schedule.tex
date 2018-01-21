@@ -1,0 +1,51 @@
+\documentclass[a4paper,10pt]{report}
+
+% Definitions
+\usepackage{lscape}
+\usepackage[height=26cm,width=18cm]{geometry}
+\usepackage{timetable}
+
+\begin{document}
+\thispagestyle{empty}
+\begin{landscape}
+\noindent\printheading{Timetable of spin mechanics and nano-MRI workshop}
+
+\newcommand{\ft}{\footnotesize}
+
+% Define the layout of your time tables
+\setslotsize{3.5cm}{0.087cm}
+\setslotcount {6}{180}
+\settopheight{10}
+\settextframe{0.8mm}
+\setbottomstyle{\tiny}
+\setframetype[c]{2}
+\setprinttimestamps{3}
+\seteventcornerradius{1pt}
+%\setsansfont[BoldFont={Fira Sans SemiBold}]{Fira Sans Book}
+%\newcommand{\timetablefont}{\metropolis}
+
+% Retro
+%\setframetype[t]{1}
+%\seteventcornerradius{0pt}
+
+% Print timestamps into event blocks
+%\setprinttimestamps{2}
+
+% Define event types
+\defineevent{tut}       {0.0} {0.3} {1.0} {1.0} {1.0} {1.0}
+\defineevent{invited}   {0.3} {0.6} {0.4} {1.0} {1.0} {1.0}
+\defineevent{contrib}   {0.6} {0.2} {0.4} {1.0} {1.0} {1.0}
+\defineevent{poster}    {0.6} {0.8} {1.0} {1.0} {1.0} {1.0}
+\defineevent{free}      {0.6} {0.8} {1.0} {1.0} {1.0} {1.0}
+\defineevent{event}     {0.8} {0.6} {1.0} {1.0} {1.0} {1.0}
+\defineevent{meal}      {0.6} {0.6} {0.6} {1.0} {1.0} {1.0}
+\defineevent{break}     {0.7} {0.7} {0.7} {1.0} {1.0} {1.0}
+
+% Start the time table
+\begin{timetable}
+  \hours{7}{5}{1} %% divide the hours from 7am in slots of 5mins
+  \englishdays{7}
+  \input{program.tex}
+\end{timetable}
+\end{landscape}
+\end{document}          

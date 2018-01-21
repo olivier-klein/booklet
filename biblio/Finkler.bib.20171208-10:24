@@ -1,0 +1,27 @@
+@article{Schlipf_2017,
+	doi = {10.1126/sciadv.1701116},
+	url = {https://doi.org/10.1126%2Fsciadv.1701116},
+	year = 2017,
+	month = {aug},
+	publisher = {American Association for the Advancement of Science ({AAAS})},
+	volume = {3},
+	number = {8},
+	pages = {e1701116},
+	author = {Lukas Schlipf and Thomas Oeckinghaus and Kebiao Xu and Durga Bhaktavatsala Rao Dasari and Andrea Zappe and Felipe F{\'{a}}varo de Oliveira and Bastian Kern and Mykhailo Azarkh and Malte Drescher and Markus Ternes and Klaus Kern and Jöerg Wrachtrup and Amit Finkler},
+	title = {A molecular quantum spin network controlled by a single qubit},
+	journal = {Science Advances}
+}
+
+@article{H_berle_2017,
+	doi = {10.1063/1.4973449},
+	url = {https://doi.org/10.1063%2F1.4973449},
+	year = 2017,
+	month = {jan},
+	publisher = {{AIP} Publishing},
+	volume = {88},
+	number = {1},
+	pages = {013702},
+	author = {Thomas HĂ¤berle and Thomas Oeckinghaus and Dominik Schmid-Lorch and Matthias Pfender and Felipe F{\'{a}}varo de Oliveira and Seyed Ali Momenzadeh and Amit Finkler and JĂśrg Wrachtrup},
+	title = {Nuclear quantum-assisted magnetometer},
+	journal = {Review of Scientific Instruments}
+}

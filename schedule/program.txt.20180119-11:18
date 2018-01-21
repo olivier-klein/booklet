@@ -1,0 +1,91 @@
+Code	Type	Day	Begin	End	Name
+
+T01	tut	2	0800	0910	
+T02	tut	3	0800	0910	
+T03	tut	4	0800	0910	
+T04	tut	5	0800	0910	
+
+I01	invited	2	0910	0945	
+I02	invited	2	1015	1050	
+I03	invited	2	1050	1125	
+I04	invited	2	1125	1200	
+I05	invited	2	1715	1750	
+I06	invited	2	1750	1825	
+I07	invited	2	1825	1900	
+
+I08	invited	3	0910	0945	
+I09	invited	3	1015	1050	
+I10	invited	3	1050	1125	
+I11	invited	3	1125	1200	
+I12	invited	3	1715	1750	
+I13	invited	3	1750	1825	
+I14	invited	3	1825	1900	
+
+I15	invited	4	0910	0945	
+I16	invited	4	1015	1050	
+I17	invited	4	1050	1125	
+I18	invited	4	1125	1200	
+I19	invited	4	1715	1750	
+I20	invited	4	1750	1825	
+I21	invited	4	1825	1900	
+I22	invited	4	2000	2035	
+I23	invited	4	2035	2110	
+I24	invited	4	2110	2145	
+
+
+I25	invited	5	0910	0945	
+I26	invited	5	1015	1050	
+I27	invited	5	1050	1125	
+I28	invited	5	1125	1200	
+
+I29	invited	5	1300	1335	
+I30	invited	5	1335	1410	
+I31	invited	5	1410	1445	
+I32	invited	5	1500	1535	
+I33	invited	5	1535	1610	
+I34	invited	5	1610	1645	
+
+I35	invited	5	1715	1750	
+I36	invited	5	1750	1825	
+I37	invited	5	1825	1900	
+
+I38	invited	6	0800	0835	
+I39	invited	6	0835	0910	
+I40	invited	6	0910	0945	
+I41	invited	6	1015	1050	
+I42	invited	6	1050	1125	
+I43	invited	6	1125	1200	
+
+P01	poster	2	1300	1715	Informal discussions
+P02	poster	3	1300	1715	Informal discussions
+P01	poster	4	1300	1715	Informal discussions
+
+P01	poster	2	2000	2200	Poster 1
+P02	poster	3	2000	2200	Poster 2
+
+	event	1	1600	1900	Registration
+	event	1	2000	2200	Welcome cocktail
+	event	5	1900	2100	Banquet
+
+
+	break	2	0945	1015	\ft Coffee break
+	break	3	0945	1015	\ft Coffee break
+	break	4	0945	1015	\ft Coffee break
+	break	5	0945	1015	\ft Coffee break
+	break	6	0945	1015	\ft Coffee break
+	break	5	1645	1715	\ft Coffee break
+
+	meal	2	0700	0800	Breakfeast
+	meal	3	0700	0800	Breakfeast
+	meal	4	0700	0800	Breakfeast
+	meal	5	0700	0800	Breakfeast
+	meal	6	0700	0800	Breakfeast
+	meal	2	1200	1300	Lunch
+	meal	3	1200	1300	Lunch
+	meal	4	1200	1300	Lunch
+	meal	5	1200	1300	Lunch
+	meal	6	1200	1300	Lunch
+	meal	1	1900	2000	Dinner
+	meal	2	1900	2000	Dinner
+	meal	3	1900	2000	Dinner
+	meal	4	1900	2000	Dinner
