@@ -1,0 +1,323 @@
+\documentclass[12pt]{book}
+%\usepackage{multibbl}
+\usepackage[a4paper,margin=3.2cm,innermargin=3.2cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[sorting=none,style=nature,url=false,doi=true]{biblatex}
+% styles: https://fr.sharelatex.com/learn/Biblatex_bibliography_styles
+\input{addbiblio}
+\usepackage{fixltx2e}
+\usepackage{pdfpages}
+\usepackage{needspace}
+\usepackage{color}
+\usepackage{fourier}
+\usepackage{marginnote}
+\renewcommand*{\marginfont}{\sffamily\footnotesize}
+\usepackage{graphicx}
+\graphicspath{{/tmp/klein/abstracts/}}
+\usepackage{caption}
+\captionsetup[figure]{font=footnotesize,labelfont=footnotesize}
+\usepackage{imakeidx}
+\usepackage{hyperref}
+\makeindex[intoc]
+
+\usepackage[most]{tcolorbox}
+
+\tcbset{
+    frame code={}
+    center title,
+    left=0pt,
+    right=0pt,
+    top=0pt,
+    bottom=0pt,
+    colback=gray!80!white,
+    colframe=white,
+    coltext=white,
+%    width=\dimexpr\textwidth\relax,
+    width=1.1\textwidth,
+    enlarge left by=0mm,
+    boxsep=10pt,
+    arc=0pt,outer arc=0pt,
+    }
+
+\renewcommand*{\bibfont}{\footnotesize}
+
+%\bibliography{/tmp/klein/YIG}
+
+\newenvironment{conf-abstract}[6][]{
+  \needspace{10\baselineskip}
+  %\begin{refsection}
+  \begin{center}
+    { \renewcommand\textsuperscript[1]{}
+      \phantomsection\addcontentsline{toc}{section}
+      {\texorpdfstring{#2 (\emph{#3})}{#2 (#3)}}
+    }
+    {{\large\bfseries #2}\marginnote{#1}\par}
+    \medskip
+    {\underline{#3}$^\dagger$\par}
+    \smallskip
+    {\footnotesize \textit{ #5}\par}
+    {\footnotesize {#6}\par}
+  \end{center}
+  %\end{refsection}
+\medskip
+\footnotesize{$^\dagger$ Email: \texttt{#4}}
+\medskip\\
+\small
+}{%
+  % \bigskip
+  % \hrule
+  % \bigskip
+  \newpage
+}
+
+\usepackage{etoolbox}
+\newcommand{\indexauthors}[1]{%
+  \forcsvlist{\index}{#1}
+}
+
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{-1}
+\pagestyle{plain}
+
+\usepackage{lipsum}
+
+
+
+\title{Spin Mechanics$^5$ and Nano-MRI$^6$}
+\author{\'Ecole de Physique des Houches, Chamonix, France}
+\date{February 11$^\text{th}$-16$^\text{th}$, 2018}
+
+
+\begin{document}
+
+\frontmatter
+\hspace{2cm}
+\includegraphics[width=8.5cm]{../../logo/logo_2017_leshouches.png}
+
+\hspace{2cm}
+%\includegraphics[width=8.5cm]{../../logo/panorama_transparent_3.png}
+
+\maketitle
+
+\chapter{Welcome Address}
+
+
+\tableofcontents
+
+\newpage
+\includepdf[pages={1}]{schedule/schedule.pdf}
+\newpage
+
+\include{schedule/calendar}
+
+\mainmatter
+\chapter{Abstracts}
+\newpage
+\begin{refsection}
+\input{abstracts/Tetienne}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Wang}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/de_Loubens}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Budakian}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Nozaki}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Band}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Slavin}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Pistolesi}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Sato}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Fuchs}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Finkler}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Nesladek}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Hu}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Bernier}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Seeger}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Barker}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Retzker}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Blanter}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Mason}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Chudnovsky}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/van_der_Sar}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Degen}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Bauer}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Eichler}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Krass}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Trepka}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Heritier}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Thiery}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Gross}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Chipaux}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Miller}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Tao}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Doll}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Chouaieb}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Saitoh}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Solignac}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Braakman}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Schmidt}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/de_Wit}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Moulin}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Kim}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Welker}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Oosterkamp}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Fani_Sani}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Rossi}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Giese}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Sauer}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Hahn}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Bleszynski_Jayich}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Probst}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Schultheiss}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Poggio}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Rabl}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Flebus}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Tserkovnyak}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Bachtold}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Freeman}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Goennenwein}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Wernsdorfer}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Jacques}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Maletinsky}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Huebl}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Hammel}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Marohn}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Waintal}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Balestro}
+\end{refsection}
+\begin{refsection}
+\input{abstracts/Duine}
+\end{refsection}
+
+\backmatter
+\renewcommand{\indexname}{Author Index}
+\printindex
+
+\end{document}
+              

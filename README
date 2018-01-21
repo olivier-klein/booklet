@@ -1,0 +1,14 @@
+compile timetable
+./schedule/build_schedule.py
+
+compile agenda
+./schedule/agenda.py
+
+compile abstracts
+./webform/generate_abstract.py
+
+templates booklet in 
+~/latex/templates/booklet/custom
+
+issue with utf-8 ü character from doi2bib
+find . -xtype f -exec grep '端' /dev/null {} \; > /tmp/klein/output

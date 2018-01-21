@@ -1,0 +1,4 @@
+#!/bin/bash
+pdflatex booklet
+biber booklet
+pdflatex booklet
