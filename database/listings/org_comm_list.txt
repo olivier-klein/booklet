@@ -1,0 +1,3 @@
+Olivier Arcizet <olivier.arcizet@neel.cnrs.fr>,
+Olivier Klein <oklein@cea.fr>,
+Benjamin Pigeau <benjamin.pigeau@neel.cnrs.fr>,

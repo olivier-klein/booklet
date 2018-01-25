@@ -1,0 +1,44 @@
+* Organizing
+
+- Olivier Klein
+- Benjamin Bigeau
+- Olivier Arcizet
+
+* Scientific
+
+- [X] Gerrit E.W. Bauer Tohoku University, Japan
+- [X] Ania Bleszynski Jayich, University of Santa Barbara, United States
+- [X] Raffi Budakian, University of Waterloo, Canada
+- [X] Eugene Chudnovsky, SUNY, New York, United States
+- [ ] Thierry Debuisschert, Thales TRT, France
+- [X] Christian Degen, Technische Hochschule Zürich, Switzerland
+- [X] Mark Freeman,  University of Alberta, Canada
+- [ ] Sebastian Gönnenwein, Dresden University / Hans Hübl, University of Munich
+- [X] Vincent Jacques, Laboratoire Charles Coulomb, France
+- [X] Chris Hammel, Ohio State University, United States
+- [X] John Marohn, Cornell University, United States
+- [X] Fabio Pistolesi, Laboratoire Ondes et Matière d’Aquitaine, France
+- [X] Peter Rabl, Atominstitut TU Wien, Austria
+- [X] Eiji Saitoh, Tohoku University, Japan
+- [X] Wolfgang Wernsdorfer, Karlsruhe University, Germany
+
+
+
+benjamin pigeau <benjamin.pigeau@neel.cnrs.fr>,
+	<wolfgang.wernsdorfer@kit.edu>, <rbudakian@uwaterloo.ca>,
+	<eugene.chudnovsky@lehman.cuny.edu>, <philipp.treutlein@unibas.ch>,
+	<peter.rabl@ati.ac.at>, Olivier ARCIZET <Olivier.Arcizet@neel.cnrs.fr>,
+Thierry DEBUISSCHERT <thierry.debuisschert@thalesgroup.com>
+john.marohn@cornell.edu
+<hammel@physics.osu.edu>
+
+John A. Marohn" <john.marohn@cornell.edu>, Martino Poggio
+	<martino.poggio@unibas.ch>, Dan Rugar <rugar@us.ibm.com>, Raffi Budakian
+	<budakian@illinois.edu>, Jörg Wrachtrup
+	<wrachtrup@physik.uni-stuttgart.de>, "jean-francois.roch@ens-cachan.fr"
+	<jean-francois.roch@ens-cachan.fr>, John Sidles <jasidles@gmail.com>,
+	"Oosterkamp, T.H." <Oosterkamp@Physics.LeidenUniv.nl>, Vincent Jacques
+	<vincent.jacques@umontpellier.fr>, de LOUBENS Gregoire
+	<gregoire.deloubens@cea.fr>, Benjamin Pigeau
+	<benjamin.pigeau@grenoble.cnrs.fr>, olivier arcizet
+	<olivier.arcizet@grenoble.cnrs.fr>

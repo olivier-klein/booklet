@@ -1,0 +1,86 @@
+Code	Type	Day	Begin	End	Name
+
+T01	tut	2	0830	0940	P. Rabl    	
+T02	tut	3	0830	0940	V. Jacques	
+T03	tut	4	0830	0940	M. Freeman	
+T04	tut	5	0830	0940	C. Fermon
+
+	event	2	0815	0830	\ft Welcome Address
+I01	invited	2	0940	1015	W. Wernsdorfer
+I02	invited	2	1045	1120	G. Fuchs
+I03	invited	2	1120	1155	A. Bachtold
+I04	invited	2	1155	1230	F. Pistolesi
+I05	invited	2	1715	1750	G. Bauer
+I06	invited	2	1750	1825	Y. Nozaki
+I07	invited	2	1825	1900	E. Saitoh
+
+I08	invited	3	0940	1015	A. Bleszynski Jayich
+I09	invited	3	1045	1120	P.C. Hammel
+I10	invited	3	1120	1155	P. Maletinsky
+I11	invited	3	1155	1230	T. van der Sar
+I12	invited	3	1715	1750	D. Mason
+I13	invited	3	1750	1825	T. Oosterkamp
+I14	invited	3	1825	1900	H. Huebl
+
+I15	invited	4	0940	1015	M. Poggio
+I16	invited	4	1045	1120	G. de Loubens
+I17	invited	4	1120	1155	V. Sauer
+I18	invited	4	1155	1230	Y. Band
+I19	invited	4	1715	1750	R. Budakian
+I20	invited	4	1750	1825	C. Degen
+I21	invited	4	1825	1900	J. Marohn
+I22	invited	4	2000	2035	Y. Tserkovnyak
+I23	invited	4	2035	2110	R. Duine
+I24	invited	4	2110	2145	M. Sato
+
+
+I25	invited	5	0940	1015	S. Probst
+I26	invited	5	1045	1120	J.P. Tetienne
+I27	invited	5	1120	1155	M. Nesladek
+I28	invited	5	1155	1230	A. Retzker
+
+I29	invited	5	1715	1755	F. Balestro
+I30	invited	5	1755	1825	C.M. Hu
+I31	invited	5	1825	1900	A. Finkler
+I32	invited	5	1900	1935	E. Chudnovsky
+
+I33	invited	6	0830	0905	A. Slavin
+I34	invited	6	0905	0940	J. Barker
+I35	invited	6	0940	1045	S. Goennenwein
+I36	invited	6	1045	1120	G. Schmidt
+I37	invited	6	1120	1155	Y. Tao
+I38	invited	6	1155	1230	H. Schultheiss
+
+P01	poster	2	1330	1715	Informal discussions
+P02	poster	3	1330	1715	Informal discussions
+P01	poster	4	1330	1715	Informal discussions
+P01	poster	5	1330	1715	Informal discussions
+
+P01	poster	2	2000	2145	Poster 1
+P02	poster	3	2000	2145	Poster 2
+
+	event	1	1600	1930	Registration
+	event	1	2030	2145	Welcome cocktail
+	event	5	1935	2145	Banquet
+
+
+	break	2	1015	1045	\ft Coffee break
+	break	3	1015	1045	\ft Coffee break
+	break	4	1015	1045	\ft Coffee break
+	break	5	1015	1045	\ft Coffee break
+	break	6	1015	1045	\ft Coffee break
+
+	meal	2	0730	0815	Breakfeast
+	meal	3	0730	0830	Breakfeast
+	meal	4	0730	0830	Breakfeast
+	meal	5	0730	0830	Breakfeast
+	meal	6	0730	0830	Breakfeast
+	meal	2	1230	1330	Lunch
+	meal	3	1230	1330	Lunch
+	meal	4	1230	1330	Lunch
+	meal	5	1230	1330	Lunch
+	meal	6	1230	1330	Lunch
+	meal	1	1930	2030	Dinner
+	meal	2	1900	2000	Dinner
+	meal	3	1900	2000	Dinner
+	meal	4	1900	2000	Dinner

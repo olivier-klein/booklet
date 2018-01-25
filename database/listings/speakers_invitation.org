@@ -1,0 +1,110 @@
+* Tutorials [4/4]:
+- [X] Mark Freeman, University of Alberta, Canada,  <mark.freeman@ualberta.ca>
+- [X] Claude Fermon, CEA Saclay, France, <Claude.Fermon@cea.fr>
+- [X] Vincent Jacques, Laboratoire Charles Coulomb, France, <vincent.jacques@umontpellier.fr>
+- [X] Peter Rabl, Atominstitut TU Wien, Austria, <peter.rabl@ati.ac.at>
+
+* invited talks (43):
+
+** scientific committee [11/13] 
+- [X] Gerrit E.W. Bauer, Tohoku University, Japan, <g.e.bauer@tudelft.nl>
+- [X] Ania Bleszynski Jayich, University of Santa Barbara, United  States, <ania@physics.ucsb.edu>
+- [X] Raffi Budakian, University of Waterloo, Canada, <rbudakian@uwaterloo.ca>
+- [X] Eugene Chudnovsky, New York, United States, <eugene.chudnovsky@lehman.cuny.edu>
+- [ ] Thierry Debuischert, Thales TRT, France, <thierry.debuisschert@thalesgroup.com>,
+- [X] Christian Degen, Technische Hochschule Zürich, Switzerland, <degenc@ethz.ch>
+- [X] Sebastian Gönnenwein, Dresden University, Germany, <sebastian.goennenwein@tu-dresden.de>
+- [X] Chris Hammel, Ohio State University, United States, <hammel@physics.osu.edu> 
+- [X] John Marohn, Cornell University, United States, <john.marohn@cornell.edu>
+- [X] Fabio Pistolesi, Laboratoire Ondes et Matière d’Aquitaine, France, <fabio.pistolesi@u-bordeaux.fr>
+- [X] Eiji Saitoh, Tohoku University, Japan, <saitoheijig@gmail.com>
+- [ ] Philip Treutlein, University of Basel, Switzerland <philipp.treutlein@unibas.ch>,
+- [X] Wolfgang Wernsdorfer, Karlsruhe University, Germany, <wolfgang.wernsdorfer@kit.edu>
+
+** primary list [32/32]
+- [X] Adrian Bachtold, IFCO, <adrian.bachtold@icfo.eu>
+- [X] Joseph Barker, Tohoku University, Japan, <joseph.barker@imr.tohoku.ac.jp>
+- [X] Yaroslav Blanter, TU Delft, Nederland, <Y.M.Blanter@tudelft.nl>
+- [X] Greg Fuchs, Cornell University, United States, <gdf9@cornell.edu>
+- [X] Hans Huebl, University of Munich, Germany, <Hans-Gregor.Huebl@wmi.badw-muenchen.de>
+- [X] Gregoire de Loubens, CEA-Saclay, France, <gregoire.deloubens@cea.fr>
+- [X] Patrick Maletinsky, Basel University, Swiss, <patrick.maletinsky@unibas.ch>
+- [X] John Moreland, NIST, United States, <john.moreland@nist.gov>
+- [X] Philipp Neumann, University of Stuttgart, Germany, <p.neumann@physik.uni-stuttgart.de>
+- [X] Yukio Nozaki, Keio University,  Japan, <nozaki@phys.keio.ac.jp>
+- [X] Tjerk Oosterkamp, Leiden University, Nederland, <oosterkamp@physics.leidenuniv.nl>
+- [X] Yoshichika Otani, Tokyo University,  Japan, <yotani@issp.u-tokyo.ac.jp>
+- [X] Martino Poggio, Basel University, Swiss, <martino.poggio@unibas.ch>
+- [X] Masahiro Sato, Tokyo University, Japan, <masahiro.sato.phys@vc.ibaraki.ac.jp>
+- [X] Andrei Slavin, Oakland University, United States, <slavin@oakland.edu>
+- [X] Toeno van der Sar, Harvard University, United States, <tvandersar@fas.harvard.edu>
+- [X] Bart van Wees, Groeningen University, Nederland, <b.j.van.wees@rug.nl>
+- [X] Georg Woltersdorf, Halle University, Germany, <georg.woltersdorf@physik.uni-halle.de>
+- [X] Can-Ming Hu, University of Manitoba, Canada, <hu@physics.umanitoba.ca>
+- [X] Frank Balestro, Institut Néel, Grenoble, France, <Franck.Balestro@neel.cnrs.fr>
+- [X] Yasunobu Nakamura, University of Tokyo, Japan, <yasunobu@t.u-tokyo.ac.jp>
+- [X] Milos Nesladek, Hasselt University, Belgium, <milos.nesladek@uhasselt.be>
+- [X] Amir Yacoby, Harvard Univesity, Harvar University, United States, <yacoby@physics.harvard.edu>
+- [X] Jean-Philippe Tetienne, University of Melbourne, Australia, <jean-philippe.tetienne@unimelb.edu.au>
+- [X] Joerg Wrachtrup, University of Stuttgart, Germany, <j.wrachtrup@physik.uni-stuttgart.de>
+- [X] Mikhail Lukin, Harvard University, United States, <lukin@physics.harvard.edu>
+- [X] Sergio Valenzuela, ICREA, Spain, <sov@icrea.cat>
+- [X] Yaroslav Tserkovnyak, UCLA, United States, <yaroslav@physics.ucla.edu>
+- [X] Helmut Schultheiss, Kaiserslautern University, Germany, <hilleb@physik.uni-kl.de>
+- [X] Albert Schliesser, NBI, Danemark, <albert.schliesser@nbi.dk>
+- [X] Mete Atature, University of Cambridge, United Kingdom <ma424@cam.ac.uk>
+- [X] Patrice Bertet, CEA-Saclay, France <patrice.bertet@cea.fr>
+
+** complementary list [0/21]
+- [ ] Shahal Ilani, Weizmann Insititute, Israel, <shahal.ilani@weizmann.ac.il>
+- [ ] Simon Streib, TU Delft, Nederland,  <S.D.Streib@tudelft.nl>
+- [ ] Alex Eichler, ETH, Swiss, <eichlera@ethz.ch>
+- [ ] Vittorio Basso, INRIM, Italy, <v.basso@inrim.it>
+- [ ] Lan Yang, Washington University, United States, <lyang25@wustl.edu>
+- [ ] Chris Lutz, IBM Research, Almaden Research Center, United States, <cplutz@us.ibm.com>
+- [ ] Philipe Treutlein
+- [ ] Gianluca Rastelli, Konstanz University
+- [ ] Susanne Baumann, UCSB,
+- [ ] Ludo Cornelissen, Groeningen, Nederland,  <l.j.cornelissen@rug.nl>
+- [ ] Fedor Jelezko, University of Ulm, Germany, <fedor.jelezko@uni-ulm.de>
+- [ ] Khaled Karrei
+- [ ] Jan Gieseler, Harvard University
+- [ ] Atature
+- [ ] Liam Hall
+- [ ] Nir Bar-Gill (Hebrew University Jerusalem)
+- [ ] Amit Finkler (Weizmann Institute)
+- [ ] V. Dyakonov (Wurzburg)
+- [ ] David Awschalom (UCSB)
+- [ ] Ronald Hanson
+- [ ] Julie Grollier, UMPhys, 
+
+** not available [0/7]
+- [ ] Dan Rugar, IBM almaden, United States, <rugar@us.ibm.com>
+- [ ] John Mamin, IBM almaden, United States, <mamin@us.ibm.com>
+- [ ] Dima Budker, Berkeley, United States, <budker@berkeley.edu>
+- [ ] Arne Bratas, NTU, Norway, <arne.brataas@ntnu.no>
+- [ ] Ronald Walsworth, Harvard University, United States, <rwalsworth@cfa.harvard.edu>
+- [ ] Lilian Childress, Mc Gill University, Canada, <childres@physics.mcgill.ca>
+- [ ] Burkard Hillebrands, Kaiserslautern University, Germany, <hilleb@physik.uni-kl.de>
+
+** never responded
+
+
+** sponsor
+
+*** Romain Stomp (Zurich Instrumet)
+*** Khad Karrai (Attocube)
+*** Emmanuel Paris (Bruker) Olivier K
+
+PI - Arcizet
+Agilent - 
+Rhodes et Schwartz - Ursula Ebels
+Oxford - Olivier K
+
+
+
+
+** test
+
+- [X] Olivier Klein, IBM almaden, United States, <mr.olivier.klein@gmail.com>
+- [X] Olivier Klein, IBM almaden, United States, <oklein@cea.fr>

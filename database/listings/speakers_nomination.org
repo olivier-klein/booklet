@@ -1,0 +1,155 @@
+* Chris Hammel:
+**      Raffi Budakian (Waterloo):  arXiv:1707.01062; “High-Resolution Nanoscale Solid-State Nuclear Magnetic Resonance Spectroscopy.” William Rose, Holger Haas, Angela Q. Chen, Nari Jeon, Lincoln J. Lauhon, David G. Cory, Raffi Budakian
+**       Chunhui Du (Harvard): Science  14 Jul 2017: Vol. 357, Issue 6347, pp. 195-198, DOI: 10.1126  “Control and local measurement of the spin chemical potential in a magnetic insulator,” Chunhui Du, Toeno van der Sar, Tony X. Zhou, Pramey Upadhyaya, Francesco Casola, Huiliang Zhang, Mehmet C. Onbasli, Caroline A. Ross, Ronald L. Walsworth, Yaroslav Tserkovnyak, Amir Yacoby
+**       Ania Jayich (UCSB): Physical Review Letters   Volume: 118, 197201   Published: May 9 2017, “Double-Quantum Spin-Relaxation Limits to Coherence of Near-Surface Nitrogen-Vacancy Centers, Myers, B. A.; Ariyaratne, A.; Jayich, A. C. Bleszynski;
+Physical Review Applied, Volume: 6, Article Number: 034005, “Strain Coupling of a Mechanical Resonator to a Single Quantum Emitter in Diamond,” Lee, KW; Lee, D; Ovartchaiyapong, P; Minguzzi, J; Maze, JR; Jayich, ACB
+**       Greg Fuchs (Cornell), Nature Communications   Volume: 8     Article Number: 14358   Published: FEB 6 2017, "Cooling a mechanical resonator with nitrogen-vacancy centres using a room temperature excited state spin-strain interaction," MacQuarrie, ER; Otten, M; Gray, SK; Fuchs, GD
+
+ Raffi Budakian, Amir Yacoby, Mark Freeman, Christian Degen, Vincent Jacques, Jorg Wrachtrup, Ania Jayich, Greg Fuchs
+
+* Vincent Jacques:
+
+ T1 quantum information
+
+** Lukin - SiV defects in diamond
+** Atature - defect in diamond, qdots...
+
+
+- T2 magnetic resonance
+
+** Liam Hall (Université de Melbourne) - NMR with NV, dynamical nuclear spin polarization,...
+
+** Ronald Walsworth (Harvard) - Detection of chemical shift with NV-based MRI
+
+** Jorg Wrachtrup ou Philpp Neumann (Stuttgart) - Detection of chemical shift with NV-based MRI
+
+** Nir Bar-Gill (Hebrew Uni. Jerusalem) - sensing protocols 
+
+** Amit Finkler (Weizmann Institute)
+
+** Christian Degen - sensing protocols
+
+** Dima Budker
+
+
+- T3 mechanical sensor ??
+
+- T4 NV centers (déjà pas mal en magnetic resonance...)
+
+** Patrick Maletinsky (Basel Uni.) - imaging antiferromagnetic order, skyrmion,..
+
+** Toeno Van der Sar (Delft Uni.) - spin chemical potential, skyrmion...
+
+** Jean-Philippe Tetienne (Université de Melbourne) - magnetism of 2D materials
+
+** V. Dyakonov (Wurzburg) - Defects in SIC for sensing
+
+- T5 spintronics
+
+** Gregoire de Loubens
+Julie Grollier
+** Claude Fermon
+
+* Christian Degen:
+
+
+Category 1
+** Martino Poggio, University or Basel: Nanomechanics and nanoSQUIDs 
+applied to nanomagnetism
+** Raffi Budakian, Waterloo: Nanowire MRFM
+** Alex Eichler, ETH Zurich (senior scientist in my group -- he is a 
+great speaker): Ultrasensitive mechanical resonators including 
+nanoladders and phononic bandgap membranes; parametric concepts
+** John Marohn, Cornell: A Nano-MRI conference without John Marohn is not 
+a nano-MRI conference. DNP-enhanced MRFM.
+
+Category 2
+** Adrian Bachtold, ICFO: Towards carbon nanotube MRFM
+
+** Tjerk Oosterkamp, Leiden: Millikelvin MRFM and application to T1 
+relaxometry of solid state systems
+** Chris Hammel, Ohio State: FMR, EPR and NMR-MRFM
+
+plus Dan Rugar and John Mamin of course, but I am not sure whether they 
+will want to come as they work on superconducting quantum computing now.
+
+* Mark Freeman
+
+
+** John Moreland, NIST Boulder (amazing background overall for spin mech + nano MRI combo; presently working on low-field NMR, not nano, but always has insightful things to say)
+
+** Susanne Baumann (did wonderful spin work with Andreas Heinrich’s former IBM Almaden group for her PhD, now a postdoc in Ania Jayich’ lab at UCSB)
+
+** Ron Walsworth (nanodiamond-enhanced MRI, etc.)
+
+** Masahiro Sato, Tokyo (optical and THz orbital angular momentum and magnets)
+
+** Lan Yang, Washington University, St. Louis (‘exceptional point’ sensing with optical microcavity, Nature last month) 
+
+* John Marohn
+
+my students can present our dynamic nuclear polarization results
+(http://doi.org/10.1039/C6CP00084C).
+
+* Olivier Klein
+
+** Andrei Slavin
+
+** Vittorio Basso
+
+* Thierry Debuisschert
+
+**        Vincent Jacques (ou P. Maletinsky) : Real-space imaging of
+non-collinear antiferromagnetic order with a single-spin magnetometer
+(Nature 549, 252–256 (14 September 2017)) 
+
+** Patrick Maletinsky : Nanoscale microwave imaging with a single electron spin in diamond (New Journal of Physics 17, 112001 (2015)) ou Strong mechanical driving of a single electron spin (Nature Physics 11, 820–824 (2015)
+
+**        Christian Degen : Towards single spin NMR ou Single-crystal diamond nanowire tips for ultrasensitive force microscopy (http://dx.doi.org/10.1021/acs.nanolett.5b02885)
+
+**         Joerg Wrachtrup:  Nanoscale nuclear magnetic resonance with chemical resolution, Science 07 Jul 2017, Vol. 357, Issue 6346, pp. 67-71, DOI: 10.1126/science.aam8697  ou Heralded Control of Mechanical motion by Single Spins (Phys. Rev. Lett. 117, 077203 (2016))
+
+**         Fedor Jelezko: Submillihertz magnetic spectroscopy performed with a nanoscale quantum sensor (Science, 26 May 2017) ou Nuclear magnetic resonance detection and spectroscopy of single proteins using quantum logic. Science. DOI: 10.1126/science.aad8022 (2016).
+
+**         Milos Nesladek Pulsed photoelectric coherent manipulation and detection of NV centre spins in diamond, Phys. Rev. Applied 7, 044032 (2017)
+ 
+* Gerrit Bauer
+
+** Y. Otani, Tokyo Universiy, new and unpublished experiments on spin mechanics.
+** J. Barker, Tohoku University, best magnetodynamics simulator in town
+** S. Streib, TU Delft, new and unpublished results on theory of coupled magnon phonon systems 
+** Y. Nozaki, Keio University, PRL 119, 077202 (2017)
+* Ania Bleszynski Jayich
+** Chris Lutz, IBM, <cplutz@us.ibm.com>
+** John Morton, UCL,  <jjl.morton@UCL.ac.uk>
+** Lilian Childress, Mc Gill, <childres@physics.mcgill.ca>
+** Alec Jenkins, UCSB,
+** David Awschalom, UCSB
+
+* Sebastian Goennenwein
+** Can-Ming Hu, Manitoba, OR Hans Huebl, Garching  strong coupling of photons
+** Yasunobu Nakamura, Tokyo  strong coupling and quantum information
+** Hans Huebl, Garching                    broadband FMR or EPR at mK
+** Dirk Grundler, Lausanne          broadband FMR and Skyrmion lattices:
+** Markus Garst, Dresden                   broadband FMR and Skyrmion lattices: theory
+** Lukas Eng, Dresden                   MFM and skyrmions
+
+** Pietro Gambardella, Zurich          spin orbit torques and SOT switching
+
+** Tomas Jungwirth, Prague    spin orbit torques and SOT switching in AFM
+** Denys Makarov, Rossendorf           spintronic devices, spintronics in AFM
+** Bart van Wees, Groningen           non-local magnon transport
+** Georg Woltersdorf, Halle,
+* Philipp Treutlein
+** Albert Schliesser or Eugene Polzik, Copenhagen
+** Klemens Hammerer, Hannover
+** Jean-Philippe Poizat, Grenoble
+** Patrick Maletinsky, Basel
+** Martino Poggio, Basel
+** Baptiste Gouraud 
+* Eugene Chudnovskii
+** Wolfgang Wernsdorfer, Karlsruhe, wolfgang.wernsdorfer@kit.edu Quantum Einstein - de Haas Effect.
+
+** Yaroslav Tserkovnyak, UCLA, yaroslav@physics.ucla.edu Skyrmions in Elastic Medium
+
+** Sergio Valenzuela, ICREA - Barcelona, sov@icrea.cat Spins in Graphene

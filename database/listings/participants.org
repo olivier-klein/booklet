@@ -1,0 +1,174 @@
+* 70 chambres
+5 doubles: 3 chambres avec grands lits et 2 avec lits jumeaux
+
+
+* Organizers [3/3]
+- [X] Olivier Arcizet
+- [X] Olivier Klein
+- [X] Benjamin Pigeau
+
+* Tutorials [4/4]:
+- [X] Mark Freeman, University of Alberta, Canada,  <mark.freeman@ualberta.ca>
+- [X] Claude Fermon, CEA Saclay, France, <Claude.Fermon@cea.fr>
+- [X] Vincent Jacques, Laboratoire Charles Coulomb, France, <vincent.jacques@umontpellier.fr>
+- [X] Peter Rabl, Atominstitut TU Wien, Austria, <peter.rabl@ati.ac.at>
+
+* invited talks (43):
+
+** scientific committee [11/16] 
+- [X] Gerrit E.W. Bauer, Tohoku University, Japan, <g.e.bauer@tudelft.nl>
+- [X] Ania Bleszynski Jayich, University of Santa Barbara, United  States, <ania@physics.ucsb.edu>
+- [X] Raffi Budakian, University of Waterloo, Canada, <rbudakian@uwaterloo.ca>
+- [X] Eugene Chudnovsky, New York, United States, <eugene.chudnovsky@lehman.cuny.edu>
+- [ ] Thierry Debuischert, Thales TRT, France, <thierry.debuisschert@thalesgroup.com>,
+- [X] Christian Degen, Technische Hochschule Zürich, Switzerland, <degenc@ethz.ch>
+- [ ] Mark Freeman, University of Alberta, Canada,  <mark.freeman@ualberta.ca>
+- [X] Sebastian Gönnenwein, Dresden University, Germany, <sebastian.goennenwein@tu-dresden.de>
+- [X] Chris Hammel, Ohio State University, United States, <hammel@physics.osu.edu> 
+- [ ] Vincent Jacques, Laboratoire Charles Coulomb, France, <vincent.jacques@umontpellier.fr>
+- [X] John Marohn, Cornell University, United States, <john.marohn@cornell.edu>
+- [X] Fabio Pistolesi, Laboratoire Ondes et Matière d’Aquitaine, France, <fabio.pistolesi@u-bordeaux.fr>
+- [ ] Peter Rabl, Atominstitut TU Wien, Austria, <peter.rabl@ati.ac.at>
+- [X] Eiji Saitoh, Tohoku University, Japan, <saitoheijig@gmail.com>
+- [ ] Philip Treutlein, University of Basel, Switzerland <philipp.treutlein@unibas.ch>,
+- [X] Wolfgang Wernsdorfer, Karlsruhe University, Germany, <wolfgang.wernsdorfer@kit.edu>
+
+** primary list [23/36]
+- [ ] Mete Atature, University of Cambridge, United Kingdom <ma424@cam.ac.uk>
+- [X] Adrian Bachtold, IFCO, <adrian.bachtold@icfo.eu>
+- [X] Frank Balestro, Institut Néel, Grenoble, France, <Franck.Balestro@neel.cnrs.fr>
+- [X] Joseph Barker, Tohoku University, Japan, <joseph.barker@imr.tohoku.ac.jp>
+- [ ] Patrice Bertet, CEA-Saclay, France <patrice.bertet@cea.fr>
+- [X] Yaroslav Blanter, TU Delft, Nederland, <Y.M.Blanter@tudelft.nl>
+- [X] Amit Finkler (talk)
+- [X] Greg Fuchs, Cornell University, United States, <gdf9@cornell.edu>
+- [X] Can-Ming Hu, University of Manitoba, Canada, <hu@physics.umanitoba.ca>
+- [X] Hans Huebl, University of Munich, Germany, <Hans-Gregor.Huebl@wmi.badw-muenchen.de>
+- [X] Gregoire de Loubens, CEA-Saclay, France, <gregoire.deloubens@cea.fr>
+- [X] Tiefu Li (talk)
+- [X] Patrick Maletinsky, Basel University, Swiss, <patrick.maletinsky@unibas.ch>
+- [X] David Mason, , NBI, Danemark,
+- [ ] John Moreland, NIST, United States, <john.moreland@nist.gov>
+- [ ] Yasunobu Nakamura, University of Tokyo, Japan, <yasunobu@t.u-tokyo.ac.jp>
+- [X] Milos Nesladek, Hasselt University, Belgium, <milos.nesladek@uhasselt.be>
+- [ ] Philipp Neumann, University of Stuttgart, Germany, <p.neumann@physik.uni-stuttgart.de>
+- [X] Yukio Nozaki, Keio University,  Japan, <nozaki@phys.keio.ac.jp>
+- [X] Tjerk Oosterkamp, Leiden University, Nederland, <oosterkamp@physics.leidenuniv.nl>
+- [ ] Yoshichika Otani, Tokyo University,  Japan, <yotani@issp.u-tokyo.ac.jp>
+- [X] Martino Poggio, Basel University, Swiss, <martino.poggio@unibas.ch>
+- [X] Masahiro Sato, Tokyo University, Japan, <masahiro.sato.phys@vc.ibaraki.ac.jp>
+- [ ] Albert Schliesser, NBI, Danemark, <albert.schliesser@nbi.dk>
+- [X] Andrei Slavin, Oakland University, United States, <slavin@oakland.edu>
+- [X] Jean-Philippe Tetienne, University of Melbourne, Australia, <jean-philippe.tetienne@unimelb.edu.au>
+- [X] Yaroslav Tserkovnyak, UCLA, United States, <yaroslav@physics.ucla.edu>
+- [X] Toeno van der Sar, Harvard University, United States, <tvandersar@fas.harvard.edu>
+- [ ] Sergio Valenzuela, ICREA, Spain, <sov@icrea.cat>
+- [ ] Bart van Wees, Groeningen University, Nederland, <b.j.van.wees@rug.nl>
+- [ ] Georg Woltersdorf, Halle University, Germany, <georg.woltersdorf@physik.uni-halle.de>
+- [ ] Joerg Wrachtrup, University of Stuttgart, Germany, <j.wrachtrup@physik.uni-stuttgart.de>
+- [ ] Amir Yacoby, Harvard Univesity, Harvar University, United States, <yacoby@physics.harvard.edu>
+- [ ] Mikhail Lukin, Harvard University, United States, <lukin@physics.harvard.edu>
+- [X] Helmut Schultheiss, HZDR, Germany, <h.schultheiss@hzdr.de>
+- [X] Sebastian Probst, SPEC CEA-Saclay, France  <sebastian.probst@cea.fr>
+
+
+** God [1/1]
+- [X] Dan Rugar
+  
+** abstract submitted for talk [5/5]
+- [X] Yehuda Band (talk) Ben Gurion
+- [X] Alex Retzker (talk) Hebrew University
+- [X] Ye Tao (talk) ETH , Harvard
+- [X] Georg Schmitt (talk) Halle
+- [X] Vincent Sauer (talk) Edmonton
+
+
+** converted to poster [8/8]
+- [X] Mayeul Chipaux (talk) Groeningen
+- [X] Calder Miller (talk) ETH
+- [X] Andrin Doll (talk) SPEC
+- [X] Floris Braakman (talk) Basel
+- [X] Fatemeh Fani (talk) Edmonton
+- [X] Nicola Rossi (talk) Basel
+- [X] Christian Giese (talk) Stuttgart 
+- [X] Benedetta Flebus (talk) UCLA
+
+
+** abstract submitted for poster [16/16]
+- [X] Tao Wang (poster)
+- [X] Nathan Bernier (poster)
+- [X] Alex Eichler (poster) ETH
+- [X] Mark-Dominik Krass (poster)
+- [X] Kai Treptka (poster) Tao
+- [X] Martin Héritier ETH (poster)
+- [X] Nicolas Thiery (poster)
+- [X] Boris Gross (poster)
+- [X] Saddem Chouaieb (poster)
+- [X] Aurélie Solignac (poster)
+- [X] Martin de Wit (poster)
+- [X] Julien Moulin (poster)
+- [X] Paul Kim (poster)
+- [X] Gesa Welker (poster)
+- [X] Christian Hahn (poster)
+
+
+** attendees [1/1]
+- [X] Hannes Seeger (attendee)
+
+
+** waiting list
+- [X] Ying Pan (attendee) Tao
+- [X] David Hälg (poster) ETH
+- [X] Urs Grob (poster) ETH
+
+
+** secondary list [0/15]
+- [ ] Gianluca Rastelli, Konstanz University
+- [ ] Susanne Baumann, UCSB,
+- [ ] Ludo Cornelissen, Groeningen, Nederland,  <l.j.cornelissen@rug.nl>
+- [ ] Fedor Jelezko, University of Ulm, Germany, <fedor.jelezko@uni-ulm.de>
+- [ ] Khaled Karrei
+- [ ] Jan Gieseler, Harvard University
+- [ ] Atature
+- [ ] Liam Hall
+- [ ] Nir Bar-Gill (Hebrew University Jerusalem)
+- [ ] Amit Finkler (Weizmann Institute)
+- [ ] V. Dyakonov (Wurzburg)
+- [ ] David Awschalom (UCSB)
+- [ ] Julie Grollier, UMPhys, 
+- [ ] Arne Bratas, NTU, Norway, <arne.brataas@ntnu.no>
+- [ ] Ronald Walsworth, Harvard University, United States, <rwalsworth@cfa.harvard.edu>
+- [ ] Lilian Childress, Mc Gill University, Canada, <childres@physics.mcgill.ca>
+- [ ] Dima Budker, Berkeley, United States, <budker@berkeley.edu>
+- [ ] Dan Rugar, IBM almaden, United States, <rugar@us.ibm.com>
+- [ ] John Mamin, IBM almaden, United States, <mamin@us.ibm.com>
+- [ ] Shahal Ilani, Weizmann Insititute, Israel, <shahal.ilani@weizmann.ac.il>
+- [ ] Simon Streib, TU Delft, Nederland,  <S.D.Streib@tudelft.nl>
+- [ ] Alex Eichler, ETH, Swiss, <eichlera@ethz.ch>
+- [ ] Vittorio Basso, INRIM, Italy, <v.basso@inrim.it>
+- [ ] Lan Yang, Washington University, United States, <lyang25@wustl.edu>
+- [ ] Chris Lutz, IBM Research, Almaden Research Center, United States, <cplutz@us.ibm.com>
+
+** never responded
+
+- [ ] Ronald Hanson
+
+
+** sponsor
+
+*** Romain Stomp (Zurich Instrumet)
+*** Khad Karrai (Attocube)
+*** Emmanuel Paris (Bruker) Olivier K
+
+PI - Arcizet
+Agilent - 
+Rhodes et Schwartz - Ursula Ebels
+Oxford - Olivier K
+
+
+
+
+** test
+
+- [X] Olivier Klein, IBM almaden, United States, <mr.olivier.klein@gmail.com>
+- [X] Olivier Klein, IBM almaden, United States, <oklein@cea.fr>
