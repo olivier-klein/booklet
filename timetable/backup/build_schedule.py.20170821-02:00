@@ -1,0 +1,60 @@
+###== imported packages ==###
+import csv
+import os
+import subprocess # cf "http://stackoverflow.com/questions/19683123/
+                  # compile-latex-from-python" for original example
+from cStringIO import StringIO
+import numpy as np
+
+###== Definition of the LaTeX template (with "blanks") ==###
+    # caution : you need to escape backslashs with backslashs
+    #   blanks are filed with %(Name)s
+    # Name are here two letters
+    # 's' means the variable is a string
+LatexContent = '''
+       \\event %(D)s {%(B)s} {%(E)s} {%(N)s} {} {%(C)s} {%(T)s}
+                   '''
+
+###== Look at the database ==##
+# open the database into python
+my_db_file = open("Program.txt","rb")
+
+# read the database
+my_db = csv.reader(my_db_file, delimiter='\t',skipinitialspace=False)
+my_db = np.loadtxt(my_db_file, delimiter='\t')
+
+###== TeX files processing and generating ==###
+#skip the header of the database
+my_db.next()
+
+#define the TeX file name
+TexFileName = 'program.tex'
+os.remove(TexFileName)
+
+#then for each row of the database
+for row in my_db :
+        if len(row) > 0:
+                Code = str(row[0])
+                Type = str(row[1])
+                Day = str(row[2])
+                TimeBegin = str(row[3])
+                TimeEnd = str(row[4])
+                Name = str(row[5])
+
+                ## create a new LaTeX file with the blanks filled
+                #create a new file
+                TexFile = open(TexFileName,'a')
+
+                #fill the blanks with the previously read informations
+                TexFile.write(LatexContent %{"C":Code, "T":Type, "D":Day,\
+                                             "B":TimeBegin, "E":TimeEnd,\
+                                             "N":Name})
+
+                #close the file
+                TexFile.close()
+
+        ## compile the file you've just created with LaTeX
+        # subprocess.Popen(['pdflatex',TexFileName],shell=False)
+
+#close the database file
+my_db_file.close()
