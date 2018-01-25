@@ -1,0 +1,1 @@
+texfile.write('\\input{schedule/title/}'+week[day]+'1 \n')
