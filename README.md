@@ -7,4 +7,4 @@ The concept is as simple as  1) on one hand, asking the participants to fill up 
 
 The booklet compiles automatically, creates the daily summaries of the schedule, builds the abstracts with time stamps of the talk, ranks them chronologically according to the schedule, creates different index tables. The solution offers great flexibility in the management of the event.
 
-Objective of the next release: provides automatic feedback about the compilation of the abstract. 
+Objective of the next release: to provide an automatic feedback about the compilation of the abstract. 
