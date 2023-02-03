@@ -1,4 +1,4 @@
-# Tools suite to manage automatically a conference booklet with pyhton and LaTeX
+# Tools suite to manage automatically a conference booklet with python and LaTeX
 
 This repository contains a tool suite in python / latex to manage a scientific conference automatically. It has been used to generate the booklet of the "spin mechanics & nano-MRI workshop" held at the École de Physique des Houches in Feb, 2018. 
 http://houches.2018.neel.cnrs.fr/
